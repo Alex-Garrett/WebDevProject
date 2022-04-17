@@ -1,0 +1,81 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+
+.abouttxt {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bluetext {
+    font-size: large;
+    font-weight: bolder;
+    color: royalblue;
+}
+
+.indenttxt {
+    padding-left: 50px;
+}
+
+.bigblue {
+    font-size: 25px;
+    color: royalblue;
+}
+
+.warriors {
+    font-size: 25px;
+    color: goldenrod;
+}
+
+.jazz {
+    font-size: 25px;
+    color: rgb(13, 89, 73);
+}
+
+.link {
+    color: rgb(31, 31, 110);
+}
+
+.header {
+    font-size: 30px;
+    margin-right: 120px;
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.resumetitle {
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(56, 56, 56);
+}
+
+.resumeformat {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.section {
+    font-size: 30px;
+    color: rgb(137, 8, 8);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subsection {
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
